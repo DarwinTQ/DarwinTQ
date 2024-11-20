@@ -13,7 +13,6 @@ I'm a dedicated student of Telecommunications Engineering and Software Engineeri
 I'm expanding my knowledge in:
 - Advanced **Java** and **JavaScript** techniques
 - **Python** for data science and AI applications
-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7078ef54-c1af-41dc-bc5c-ae6b08f19e08" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - **MATLAB** for telecommunications engineering
 - Web development frameworks and APIs
 
