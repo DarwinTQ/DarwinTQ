@@ -19,7 +19,6 @@
 
 ### 🚀 My Tech Stack & Tools
 
-Un vistazo a las tecnologías con las que trabajo.
 
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -53,9 +52,8 @@ Un vistazo a las tecnologías con las que trabajo.
 
 ### 🌱 I'm Currently Learning & Open to Collaborate On
 
-Estoy siempre en busca de nuevos retos y oportunidades para aprender y crear.
 
--   🤖 **Proyectos de Inteligencia Artificial:** Desarrollando soluciones prácticas y explorando algoritmos avanzados.
+-   🤖 **Proyectos de Inteligencia Artificial:** Desarrollando soluciones prácticas y explorando algoritmos.
 -   🌐 **Desarrollo Web Moderno:** Construyendo aplicaciones con backends robustos y APIs eficientes.
 -   📡 **Ingeniería de Telecomunicaciones:** Aplicando procesamiento de señales y MATLAB a problemas de ingeniería.
 
