@@ -2,7 +2,7 @@
 
 # Hi there, I'm Darwin Turpo Quispe 👋
 
-### A Telecommunications & Software Engineering student passionate about AI and building the future.
+### Telecommunications Engineering Student @ UNSA | Software & Embedded Systems Developer
 
 </div>
 
@@ -13,56 +13,56 @@
   <a href="https://github.com/DarwinTQ" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  </p>
+
+---
+
+### 👨‍💻 About Me
+
+I am a 7th-semester Telecommunications Engineering student at the Universidad Nacional de San Agustín (UNSA). I am passionate about bridging the gap between hardware and software, specializing in embedded systems, robust backend development, and artificial intelligence.
+
+- 🔭 **Currently working on:** A Satellite Telemetry Dashboard (ESP32, FastAPI, WebSockets), an AI-Powered Syllabus Generator (Django, Gemini API), and IoT Object Detection tracking systems (NEO-6M, OpenCV, YOLO).
+- 🌱 **Currently learning:** Advanced machine learning algorithms, full-stack integration (TypeScript/Tailwind), and hardware-software telemetry.
+- 🤝 **Open to collaborate on:** IoT innovations, modern web APIs, and applied AI engineering challenges.
+
+---
+
+### 🚀 Tech Stack & Tools
+
+**Languages:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
+
+**Frameworks, Libraries & Hardware:**
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </p>
 
 ---
 
-### 🚀 My Tech Stack & Tools
-
-
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  </a>
-</p>
-
----
-
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarwinTQ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de DarwinTQ" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarwinTQ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="DarwinTQ's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinTQ&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados por DarwinTQ" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinTQ&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
-
-### 🌱 I'm Currently Learning & Open to Collaborate On
-
-
--   🤖 **Proyectos de Inteligencia Artificial:** Desarrollando soluciones prácticas y explorando algoritmos.
--   🌐 **Desarrollo Web Moderno:** Construyendo aplicaciones con backends robustos y APIs eficientes.
--   📡 **Ingeniería de Telecomunicaciones:** Aplicando procesamiento de señales y MATLAB a problemas de ingeniería.
-
-**¡Si tienes un proyecto innovador en mente, conectemos y construyamos algo increíble juntos!**
-
-<br>
 
 <details align="center">
 <summary>⚡ Fun Fact</summary>
 <br>
-<p>Disfruto desglosar problemas complejos y superar los límites de mi conocimiento. En mi tiempo libre, es probable que me encuentres conceptualizando nuevos proyectos de IA o sumergiéndome en la documentación de un nuevo lenguaje de programación.</p>
+<p>I enjoy breaking down complex problems and pushing the boundaries of my knowledge. When I'm not coding a backend or wiring an ESP32, you'll probably find me conceptualizing new AI projects, diving deep into technical documentation, or following the latest matches of Paris Saint-Germain!</p>
 </details>
