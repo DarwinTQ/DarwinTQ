@@ -13,7 +13,7 @@
   <a href="https://github.com/DarwinTQ" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  </p>
+</p>
 
 ---
 
@@ -51,12 +51,15 @@ I am a 7th-semester Telecommunications Engineering student at the Universidad Na
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DarwinTQ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="DarwinTQ's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinTQ&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarwinTQ&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="DarwinTQ's Activity Graph" />
 </p>
 
 ---
