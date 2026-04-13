@@ -51,17 +51,6 @@ I am a 7th-semester Telecommunications Engineering student at the Universidad Na
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarwinTQ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="DarwinTQ's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinTQ&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarwinTQ&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="DarwinTQ's Activity Graph" />
-</p>
-
 ---
 
 <details align="center">
