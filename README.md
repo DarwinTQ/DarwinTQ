@@ -1,60 +1,82 @@
 <div align="center">
 
-# Hi there, I'm Darwin Turpo Quispe 👋
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Darwin+Turpo+Quispe;Telecommunications+Engineering+%40+UNSA;Embedded+Systems+%C2%B7+Backend+%C2%B7+AI" alt="Typing SVG" />
 
-### Telecommunications Engineering Student @ UNSA | Software & Embedded Systems Developer
+**Telecommunications Engineering Student · Software & Embedded Systems Developer**
+
+Arequipa, Peru
+
+<a href="mailto:dturpoqu@unsa.edu.pe"><img src="https://img.shields.io/badge/Email-dturpoqu%40unsa.edu.pe-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/DarwinTQ"><img src="https://img.shields.io/badge/GitHub-DarwinTQ-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://komarev.com/ghpvc/?username=DarwinTQ&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views">
 
 </div>
 
-<p align="center">
-  <a href="mailto:dturpoqu@unsa.edu.pe" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/DarwinTQ" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+---
+
+### About
+
+Seventh-semester Telecommunications Engineering student at the **Universidad Nacional de San Agustín (UNSA)**. My work sits at the intersection of hardware and software: embedded systems, reliable backend services, and applied artificial intelligence.
+
+```yaml
+focus:       [Embedded Systems, Backend Development, Applied AI, IoT]
+learning:    [Machine Learning, TypeScript + Tailwind, Hardware–Software Telemetry]
+open_to:     [IoT innovation, Modern web APIs, Applied AI engineering]
+```
 
 ---
 
-### 👨‍💻 About Me
+### Current Projects
 
-I am a 7th-semester Telecommunications Engineering student at the Universidad Nacional de San Agustín (UNSA). I am passionate about bridging the gap between hardware and software, specializing in embedded systems, robust backend development, and artificial intelligence.
-
-- 🔭 **Currently working on:** A Satellite Telemetry Dashboard (ESP32, FastAPI, WebSockets), an AI-Powered Syllabus Generator (Django, Gemini API), and IoT Object Detection tracking systems (NEO-6M, OpenCV, YOLO).
-- 🌱 **Currently learning:** Advanced machine learning algorithms, full-stack integration (TypeScript/Tailwind), and hardware-software telemetry.
-- 🤝 **Open to collaborate on:** IoT innovations, modern web APIs, and applied AI engineering challenges.
-
----
-
-### 🚀 Tech Stack & Tools
-
-**Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-</p>
-
-**Frameworks, Libraries & Hardware:**
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-</p>
+| Project | Description | Stack |
+|:--|:--|:--|
+| **Satellite Telemetry Dashboard** | Real-time telemetry acquisition and visualization | `ESP32` `FastAPI` `WebSockets` |
+| **AI Syllabus Generator** | Automated generation of academic syllabi using LLMs | `Django` `Gemini API` |
+| **IoT Object Tracking** | Object detection with geolocated tracking | `OpenCV` `YOLO` `NEO-6M` |
 
 ---
 
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,matlab&theme=dark" alt="Languages" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,tailwind,opencv,git,linux&theme=dark" alt="Frameworks" />
+
+**Hardware**
+
+<img src="https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" />
+<img src="https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino" />
+<img src="https://img.shields.io/badge/GPS_NEO--6M-0D1117?style=flat-square&logo=satellite&logoColor=white" alt="NEO-6M" />
+
+</div>
+
 ---
 
-<details align="center">
-<summary>⚡ Fun Fact</summary>
+### GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DarwinTQ&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&hide_rank=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinTQ&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
+
+</div>
+
+---
+
+<details>
+<summary><b>Beyond the code</b></summary>
 <br>
-<p>I enjoy breaking down complex problems and pushing the boundaries of my knowledge. When I'm not coding a backend or wiring an ESP32, you'll probably find me conceptualizing new AI projects, diving deep into technical documentation, or following the latest matches of Paris Saint-Germain!</p>
+
+I enjoy breaking down complex problems and continuously expanding my technical knowledge. Outside of backend development and ESP32 prototyping, I spend my time conceptualizing new AI projects, reading technical documentation, and following Paris Saint-Germain.
+
 </details>
+
+<div align="center">
+<sub>Engineering reliable systems, from the sensor to the cloud.</sub>
+</div>
